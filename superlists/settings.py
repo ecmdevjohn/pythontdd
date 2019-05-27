@@ -25,7 +25,7 @@ SECRET_KEY = 'eayo=eaan35ba14)uy(p&#7r=n_41m)@8^qknc93t8g6k(=)3r'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pythontdd-staging.jnanderson.co.uk']
 
 
 # Application definition
